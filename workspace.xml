@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb3d8b77-a902-4908-a251-5173a5c9a678" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1rYTM1GQXeqj6pCzJAZJ87vJbe8" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_ISSUES_SPLIT_PROPORTION" value="0.3452381" />
+    <property name="android-custom-viewD:/Android/MexPlayer/app/src/main/java/com/kdapps/videoplayer/hdmaxplayer/video/player/Extra/TextreView.java_SELECTED" value="TextreView" />
+    <property name="android-custom-viewD:/Android/MexPlayer/app/src/main/java/com/kdapps/videoplayer/hdmaxplayer/video/player/Extra/TextureView.java_SELECTED" value="TextureView" />
+    <property name="android-custom-viewD:/Android/MexPlayer/app/src/main/java/com/kdapps/videoplayer/hdmaxplayer/video/player/Extra/TextureView1.java_SELECTED" value="TextureView1" />
+    <property name="android-custom-viewD:/Android/MexPlayer/app/src/main/java/com/kdapps/videoplayer/hdmaxplayer/video/player/Extra/Video.java_SELECTED" value="Video" />
+    <property name="android-custom-viewD:/Android/MexPlayer/app/src/main/java/com/kdapps/videoplayer/hdmaxplayer/video/player/Extra/VideoStanderd.java_SELECTED" value="VideoStanderd" />
+    <property name="android-custom-viewD:/Android/MexPlayer/app/src/main/java/com/kdapps/videoplayer/hdmaxplayer/video/player/Util/VerticalProgressBar.java_SELECTED" value="VerticalProgressBar" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-previewD:/Android/MexPlayer/app/src/main/java/com/kdapps/videoplayer/hdmaxplayer/video/player/Extra/TextreView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/Android/MexPlayer/app/src/main/java/com/kdapps/videoplayer/hdmaxplayer/video/player/Extra/TextureView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/Android/MexPlayer/app/src/main/java/com/kdapps/videoplayer/hdmaxplayer/video/player/Extra/TextureView1.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/Android/MexPlayer/app/src/main/java/com/kdapps/videoplayer/hdmaxplayer/video/player/Extra/Video.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/Android/MexPlayer/app/src/main/java/com/kdapps/videoplayer/hdmaxplayer/video/player/Extra/VideoStanderd.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/Android/MexPlayer/app/src/main/java/com/kdapps/videoplayer/hdmaxplayer/video/player/Util/VerticalProgressBar.java_selected" value="Custom views" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Mex_Player.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb3d8b77-a902-4908-a251-5173a5c9a678" name="Default Changelist" comment="" />
+      <created>1619151971497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619151971497</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="329" y="232" width="707" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1619154400506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="329" y="232" width="707" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1619154400506" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1619154433830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1366" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1619152321514" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1619154433830" />
+    <state x="2032" y="253" width="587" height="534" key="find.popup" timestamp="1619237042975">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2032" y="253" width="587" height="534" key="find.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1619237042975" />
+  </component>
+</project>
